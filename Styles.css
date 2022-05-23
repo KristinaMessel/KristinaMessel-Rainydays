@@ -1,11 +1,4 @@
-a {
-    color: green;
-    text-decoration: none;
-  }
-  .content {
-    font-family: "Open Sans", Verdana, sans-serif;
-  }
-  
-  .highlighted {
-    border: 2px dashed red;
-  }
+h1 {
+  font-size: 20px;
+  color: green;
+}
