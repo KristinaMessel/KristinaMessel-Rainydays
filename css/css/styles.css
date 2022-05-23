@@ -1,14 +1,4 @@
-body {
- background-color: orange; 
+h1 {
+  font-size: 20px;
+  color: green;
 }
-a {
-    color: green;
-    text-decoration: none;
-  }
-  .content {
-    font-family: "Open Sans", Verdana, sans-serif;
-  }
-  
-  .highlighted {
-    border: 2px dashed red;
-  }
