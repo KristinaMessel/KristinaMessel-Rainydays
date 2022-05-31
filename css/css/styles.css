@@ -1,4 +1,4 @@
-body {
+body{
   background-color: ##5E9996;
   font-family: 'Open Sans', Verdana, sans-serif;
   h1{
@@ -18,4 +18,13 @@ body {
   
   nav a:hover {
       text-decoration: underline;
+  }
+
+}
+nav ul {
+padding: 0px;
+.active 
+{
+background-color: white;
+color: ##C47C4F;
   }
