@@ -2,7 +2,7 @@ body {
   background-color: ##5E9996;
   font-family: 'Open Sans', Verdana, sans-serif;
   h1{
-    font-family: 'Al Nile', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Al Nile';
     color: #126069;
   }
 
@@ -13,13 +13,18 @@ body {
   nav a {
       color: #000;
       text-decoration: none;
-      padding: 10px;
+      padding: 20px;
   }
   
   nav a:hover {
       text-decoration: underline;
-<<<<<<< HEAD
   }
-=======
+
+}
+nav ul {
+padding: 30px;
+.active 
+{
+background-color: white;
+color: ##C47C4F;
   }
->>>>>>> 0ab751857fe065d167c93aaa8de2faa1e1fc4a80
