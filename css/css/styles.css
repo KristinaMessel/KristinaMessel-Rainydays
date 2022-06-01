@@ -1,9 +1,9 @@
-body{
-  background-color: ##5E9996;
-  font-family: 'Open Sans', Verdana, sans-serif;
+body {
+  background-color: hsl(177, 17%, 48%);
+  font-family: 'Al Nile', Verdana, sans-serif;
   h1{
-    font-family: 'Al Nile', 'Arial Narrow', Arial, sans-serif;
-    color: #126069;
+    font-family: 'Al Nile';
+    Color::after #126069;
   }
 
   nav li {
@@ -12,8 +12,8 @@ body{
   
   nav a {
       color: #000;
-      text-decoration: none;
-      padding: 10px;
+      text-decoration: rgb(59, 138, 141);
+      padding: 20px;
   }
   
   nav a:hover {
@@ -22,9 +22,9 @@ body{
 
 }
 nav ul {
-padding: 0px;
+padding: 30px;
 .active 
 {
 background-color: white;
-color: ##C47C4F;
+color: #C47C4F;
   }
