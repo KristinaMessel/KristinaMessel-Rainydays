@@ -1,47 +1,24 @@
+<!doctype html>
 body {
-<<<<<<< HEAD
-  background-color: ##5E9996;
-  font-family: 'Open Sans', Verdana, sans-serif;
-  h1{
-    font-family: 'Al Nile';
-    color: #126069;
-=======
-  background-color: hsl(177, 17%, 48%);
-  font-family: 'Al Nile', Verdana, sans-serif;
-  h1{
-    font-family: 'Al Nile';
-    Color::after #126069;
->>>>>>> 13df9d33169b229f2f8b761582deb6a3b391f994
-  }
+  background-color: #5e9996;
+  font-family: 'Al Nile', Al Nile, Al Nile;
+}
 
-  nav li {
-      display: inline-block;
-  }
-  
-  nav a {
-      color: #000;
-<<<<<<< HEAD
-      text-decoration: none;
-=======
-      text-decoration: rgb(59, 138, 141);
->>>>>>> 13df9d33169b229f2f8b761582deb6a3b391f994
-      padding: 20px;
-  }
-  
-  nav a:hover {
-      text-decoration: underline;
-  }
+h1{
+  font-family: 'Al Nile', Al Nile, Al Nile;
+  color: #126069;
+}
+
+nav li {
+  display: inline-block;
 
 }
-nav ul {
-padding: 30px;
-.active 
-{
-background-color: white;
-<<<<<<< HEAD
-color: ##C47C4F;
-  }
-=======
+
+ul li {
+  color: #0e525a;
+}
+
+p {
 color: #C47C4F;
-  }
->>>>>>> 13df9d33169b229f2f8b761582deb6a3b391f994
+text-decoration: al nile:
+}
